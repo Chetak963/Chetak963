@@ -10,13 +10,6 @@ I usually work with **Python, PyTorch, Pandas, Scikit-learn, and Hugging Face**.
 
 I'm constantly learning and experimenting with real-world datasets and AI models.
 
-### 🚀 Current Focus
-
-* Machine Learning & Deep Learning
-* Natural Language Processing (NLP)
-* Computer Vision with PyTorch
-* Data Analysis & Visualization
-
 ## 📊 GitHub Stats
 
 ![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight)
