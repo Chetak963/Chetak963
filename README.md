@@ -10,12 +10,6 @@ I usually work with **Python, PyTorch, Pandas, Scikit-learn, and Hugging Face**.
 
 I'm constantly learning and experimenting with real-world datasets and AI models.
 
-## 📊 GitHub Stats
-
-![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetak963&layout=compact)
-
 ## 🧰 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,9 +19,18 @@ I'm constantly learning and experimenting with real-world datasets and AI models
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetak-majhi-b1a489335/)
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight" height="180em"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chetak963)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetak963&layout=compact&theme=tokyonight" height="180em"/>
 
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetak963&theme=tokyonight" height="180em"/>
+
+</p>
