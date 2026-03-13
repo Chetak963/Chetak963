@@ -27,10 +27,6 @@ You can check out my pinned repositories where I build projects around **AI, ML,
 * Curious about how intelligent systems work
 * Always learning something new in AI and data science
 
-
-## 🛠 Tools & Technologies
-Python | PyTorch | TensorFlow | Pandas | Scikit-learn | Git
-
 ## 📊 GitHub Stats
 
 ![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight)
