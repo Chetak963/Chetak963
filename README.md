@@ -12,8 +12,8 @@ I'm constantly learning and experimenting with real-world datasets and AI models
 
 ## 🚀 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,pandas,numpy,git,django,fastapi,docker,postgres" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,powerbi,pandas,numpy,sklearn,git,django,fastapi,docker,postgres&perline=8" />
 </p>
 
 ## 📊 GitHub Stats
