@@ -27,7 +27,7 @@ Python | PyTorch | TensorFlow | Pandas | Scikit-learn | Git
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetak-majhi-b1a489335/)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chetak963)
 
