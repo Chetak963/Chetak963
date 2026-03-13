@@ -10,20 +10,11 @@ I usually work with **Python, PyTorch, Pandas, Scikit-learn, and Hugging Face**.
 
 I'm constantly learning and experimenting with real-world datasets and AI models.
 
-## 🧰 Tools & Technologies
-
 ## 🚀 Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,sklearn,git,django,flask,docker,postgres,figma" />
 </p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
