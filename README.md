@@ -14,6 +14,10 @@ I'm constantly learning and experimenting with real-world datasets and AI models
 
 ## 🚀 Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,sklearn,git,django,flask,docker,postgres,figma" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
