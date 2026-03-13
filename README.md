@@ -31,9 +31,6 @@ You can check out my pinned repositories where I build projects around **AI, ML,
 ## 🛠 Tools & Technologies
 Python | PyTorch | TensorFlow | Pandas | Scikit-learn | Git
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/chetak-majhi-b1a489335/
-
 ## 📊 GitHub Stats
 
 ![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight)
