@@ -1,11 +1,32 @@
-# Hey, I'm Chetak 👋
+## Hey there! 👋
 
-Machine Learning | Data Science | NLP
+I'm **Chetak**, exploring **Data Science and Machine Learning**.
 
-## 🚀 About Me
-- Learning Data Science & AI
-- Interested in NLP & Computer Vision
-- Building ML projects
+I enjoy turning data into insights and building intelligent systems with AI.
+If an interesting idea comes to mind, chances are I'll try to build a project around it.
+
+My main focus areas are **Machine Learning, NLP, and Computer Vision**.
+I usually work with **Python, PyTorch, Pandas, Scikit-learn, and Hugging Face**.
+
+I'm constantly learning and experimenting with real-world datasets and AI models.
+
+### 🚀 Current Focus
+
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision with PyTorch
+* Data Analysis & Visualization
+
+### 📌 Projects
+
+You can check out my pinned repositories where I build projects around **AI, ML, and Data Science**.
+
+### ⚡ Fun Facts
+
+* I enjoy building AI projects and experimenting with models
+* Curious about how intelligent systems work
+* Always learning something new in AI and data science
+
 
 ## 🛠 Tools & Technologies
 Python | PyTorch | TensorFlow | Pandas | Scikit-learn | Git
