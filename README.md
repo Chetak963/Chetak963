@@ -21,12 +21,6 @@ I'm constantly learning and experimenting with real-world datasets and AI models
 
 You can check out my pinned repositories where I build projects around **AI, ML, and Data Science**.
 
-### ⚡ Fun Facts
-
-* I enjoy building AI projects and experimenting with models
-* Curious about how intelligent systems work
-* Always learning something new in AI and data science
-
 ## 📊 GitHub Stats
 
 ![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight)
