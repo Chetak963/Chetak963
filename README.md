@@ -11,14 +11,13 @@ Machine Learning | Data Science | NLP
 Python | PyTorch | TensorFlow | Pandas | Scikit-learn | Git
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourwebsite.com
+- LinkedIn: https://www.linkedin.com/in/chetak-majhi-b1a489335/
 
 ## 📊 GitHub Stats
 
-![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Chetak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetak963&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetak963&layout=compact)
 
 ## 🛠 Tools & Technologies
 
@@ -30,9 +29,5 @@ Python | PyTorch | TensorFlow | Pandas | Scikit-learn | Git
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chetak963)
 
