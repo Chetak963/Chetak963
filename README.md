@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there! 
 
 I'm **Chetak**, exploring **Data Science and Machine Learning**.
 
@@ -10,13 +10,13 @@ I usually work with **Python, PyTorch, Pandas, Scikit-learn, and Hugging Face**.
 
 I'm constantly learning and experimenting with real-world datasets and AI models.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,django,fastapi,docker,postgres" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   
